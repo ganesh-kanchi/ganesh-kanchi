@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/ganesh-kanchi-b9bb7a207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-kanchi-b9bb7a207" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ganesh-kanchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ganesh-kanchi" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ganeshkanchimad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ganeshkanchimad" height="30" width="40" /></a>
-<a href="https://instagram.com/ganesh_aos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh_aos" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ganesh-kanchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ganesh-kanchi" height="30" width="40" /></a>
 </p>
 
