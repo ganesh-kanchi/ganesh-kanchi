@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Kanchi</h1>
-<h3 align="center">Aspiring Web Developer | 19 | React</h3>
+<h3 align="center">Aspiring Web Developer | 20 | React</h3>
 
 <p align="left"> <a href="https://twitter.com/ganesha_k_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ganesha_k_dev?logo=twitter&style=for-the-badge" alt="ganesha_k_dev" /></a> </p>
 
